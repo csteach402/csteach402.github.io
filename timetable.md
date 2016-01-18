@@ -21,11 +21,11 @@ This class will meet at the following time and place,
 
 #### Important Dates
 
-* DEV week: 7th to 14th March 2016
-  * DEV week presentation due on 16th March 2016 @ 4.15pm
 * Spring break: 7th to 12th March 2016
 	* No class: 9th March 2016
-* Easter holiday: 24th to 28th March 2016
+* DEV week: 23rd to 30th March 2016
+  * No class: 23rd March 2016
+  * DEV week presentation due on 30th March 2016 @ 4.15pm
 * Final class: 27th April 2016
   * Final presentation due on 27th April 2016 @ 4.15pm
 * Exam week: 2nd May to 7th May 2016
@@ -33,7 +33,7 @@ This class will meet at the following time and place,
 
 #### Coursework Schedule
 
-* Wednesday 16th March 2016
+* Wednesday 30th March 2016
   * Demonstration of DEV week assessment @ 4.15pm
 * Wednesday 27th April 2016
   * Demonstration of final assessment @ 4.15pm
