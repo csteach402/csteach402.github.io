@@ -21,92 +21,76 @@ References will be cited at the end of each week's notes.
 There is no specific textbook for this course.
 
 <!--
-###### Week 13 - 19th November 2015
 
-  * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
-  * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
-  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
-  * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
+###### Week 13 - 8th April 2015
 
-###### Week 12 - 12th November 2015
+  * References
+    * Bell, B.S., and Kozlowski, S.W.J. *Adaptive guidance: Enhancing self-regulation, knowledge, and performance in technology-based training.* Personnel Psychology 55. PP.267-306. 2002.
+    * Corbalan, G., Kester, L., and Van Merrienboer, J.J.G. *Towards a personalized task selection model with shared instructional control.* Instructional Science 34. PP.399-422. 2006.
+    * Lee, S., Lee, Y.H.K. *Effects of learner-control versus program control strategies on computer-aided learning of chemistry problems: For acquisition or review?* Journal of Educational Psychology 83. PP.491-498. 1991.
 
-  * Kirk, A. *Data Visualisation: A successful design process.* Packt Publishing. 2012.
-  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
-  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
+###### Week 11 - 25th March 2015
 
-###### Week 11 - 5th November 2015
+  * References
+    * Stone, N.J. *Exploring the relationship between calibration and self-regulated learning.* Educational Psychology Review 4. PP.437-475. 2000.
+    * Walczyk, J.J., and Hall, V.C. *Effects of examples and embedded questions on the accuracy of comprehension self-assessments.* Journal of Educational Psychology 81. PP.435-437. 1989.
+    * Young, J.D. *The effect of self-regulated learning strategies on performance in learner controlled computer-based instruction.* Educational Technology Research and Development 44. PP.17-27. 1996.
 
-  * Homebrew for OS X
-    * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * MongoDB
-    * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
-  * Mongoose
-    * [MongooseJS Docs](http://mongoosejs.com/index.html)
-  * Node.js
-    * [Node.js](https://nodejs.org/en/)
-    * [ExpressJS](http://expressjs.com/)
-  * Redis
-    * [redis.io](http://redis.io/)
+###### Week 10 - 18th March 2015
 
-###### Week 10 - 29th October 2015
+  * References
+    * Moreno, R. *Decreasing cognitive load for novice students: Effects of explanatory versus corrective feedback in discovery-based multimedia.* Instructional Science 32. PP.99-113. 2004.
+    * Slobada, J.A., Davidson, J.W., Howe, M.J.A., and Moore, D.G. *The role of practice in the development of performing musicians.* British Journal of Psychology 87. PP.287-309. 1996.
 
-  * jQuery
-    * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
-    * [jQuery - promise](https://api.jquery.com/promise/)
-  * Flickr API
-    * [Public feeds](https://www.flickr.com/services/feeds/)
-    * [Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * Various
-    * [Create your own AJAX loader](http://www.ajaxload.info/)
+###### Week 9 - 11th March 2015
 
-###### Week 9 - 22nd October 2015
+  * References
+    * Atkinson, R.K., Renkl, A., & Merrill, M.M. *Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked out steps* Journal of Educational Psychology 95. PP. 774-783 2003.
+    * LeFevre, J.A., & Dixon, P. *Do written instructions need examples?* Cognition and Instruction 3. PP. 1-30. 1986.
 
-  * jQuery
-    * [jQuery - getJSON](http://api.jquery.com/jquery.getjson/)
-  * [JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
-  * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
+###### Week 7 - 25th February 2015
 
-###### Week 8 - 15th October 2015
+  * References
+    * Mayer, R.E., Mathias, A., Wetzell, K. *Fostering understanding of multimedia messages through pretraining: Evidence for a two-stage theory of mental model construction.* Journal of Experimental Psychology: Applied 8. PP.147-154. 2002.
+    * Reeves, B., and Nass, C. *The media equation: How people treat computers, television, and new media like real people and places.* Cambridge University Press. 1996.
 
-  * N/A
+###### Weeks 5 & 6 - 11th to 18th February 2015
 
-###### Week 6 - 1st October 2015
+  * References
+    * Mayer, R.E., Sobko, K., and Mautone, P.D. *Social cues in multimedia learning: Role of speaker's voice.* Journal of Educational Psychology 93. PP.724-733. 2003.
+    * Moreno, R., and Mayer, R.E. *Personalized messages that promote science learning in virtual environment.* Journal of Educational Psychology 96. PP.165-173. 2004.
+    * Moreno, R., and Mayer, R.E. *Engaging students in active learning: The case for personalized multimedia messages.* Journal of Educational Psychology 93. PP.724-733. 2000.
+    * Nass, C., and Brave, S. *Wired for speech: How voice activates and advances the human-computer relationship.* MIT Press. 2005.
 
-  * [jQuery and AJAX](http://api.jquery.com/category/ajax/)
-  * jQuery and JSON
-    * [jQuery - .getJSON()](http://api.jquery.com/jquery.getjson/)
-    * [jQuery - .parseJSON()](http://api.jquery.com/jquery.parsejson/)
-  * [jQuery - DOM removal](http://api.jquery.com/category/manipulation/dom-removal/)
-  * [JSON](http://www.json.org/)
 
-###### Week 5 - 24th September 2015
+###### Week 4 - 4th February 2015
 
-  * [jQuery API](https://api.jquery.com/)
-  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
-  * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
-  * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
+  * References
+    * Mayer, R.E., Heiser, J., and Lonn, S. *Cognitive constraints on multimedia learning: When presenting more material results in less understanding.* Journal of Education Psychology 93. PP.187-198. 2001.
+    * Moreno, R., and Mayer, R.E. *A coherence effect in multimedia learning: The case for minimizing irrelevant sounds in the design of multimedia instructional messages.* Journal of Educational Psychology 92. PP.117-125. 2000.
 
-###### Week 4 - 17th September 2015
+###### Week 3 - 28th January 2015
 
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-  * [MDN - JS Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
-  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-  * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
+  * References
+    * Ayres, P. and Sweller, J. *The split attention principle in multimedia learning.* The Cambridge handbook of multimedia learning. PP. 135-146. Cambridge University Press. 2005.
+    * Mayer, R.E., Moreno, R., Boire, M., and Vagge, S. *Maximising constructivist learning from multimedia communications by minimizing cognitive load.* Journal of Educational Psychology 91. PP.638-643. 1999.
+    * Moreno, R. and Mayer, R.E. *Cognitive principles of multimedia learning: The role of modality and contiguity.* Journal of Educational Psychology 91. PP.358-368. 1999.
 
-###### Week 3 - 10th September 2015
+###### Week 2 - 21st January 2015
 
-  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-  * [W3C - CSS](http://www.w3.org/Style/CSS/)
-  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+  * Suggested Reading
+    * Forta, Ben. *MySQL Crash Course.* Sams Publishing. 2005.
+    * W3C Schools. [SQL Tutorial](http://www.w3schools.com/sql/default.asp).
 
-###### Week 2 - 3rd September 2015
+  * References
+    * Clark, R.C. and Lyons, C. *Graphics for learning.* Pfeiffer. 2004.
+    * Fletcher, J.D. and Tobias, S. *The multimedia principle.* The Cambridge handbook of multimedia learning. PP. 117-134. Cambridge University Press. 2005.
+    * Mayer, R.E. *Multimedia Learning.* Cambridge University Press. 2001.
+    * Mayer, R.E. *The Cambridge handbook of multimedia learning.* Cambridge University Press. 2005.
 
-  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
-  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
-
-###### Week 1 - 25th January 2016
-
-  * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
 -->
+
+###### Week 1 - 20th January 2016
+
+  * Suggested Reading
+    * Clark, R.C., and Kwinn, A. *The new virtual classroom: Evidence-based guidelines for synchronous e-learning.* Pfeiffer. 2007.
