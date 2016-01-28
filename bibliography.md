@@ -76,7 +76,9 @@ There is no specific textbook for this course.
     * Mayer, R.E., Moreno, R., Boire, M., and Vagge, S. *Maximising constructivist learning from multimedia communications by minimizing cognitive load.* Journal of Educational Psychology 91. PP.638-643. 1999.
     * Moreno, R. and Mayer, R.E. *Cognitive principles of multimedia learning: The role of modality and contiguity.* Journal of Educational Psychology 91. PP.358-368. 1999.
 
-###### Week 2 - 21st January 2015
+-->
+
+###### Week 2 - 27th January 2016
 
   * Suggested Reading
     * Forta, Ben. *MySQL Crash Course.* Sams Publishing. 2005.
@@ -87,8 +89,6 @@ There is no specific textbook for this course.
     * Fletcher, J.D. and Tobias, S. *The multimedia principle.* The Cambridge handbook of multimedia learning. PP. 117-134. Cambridge University Press. 2005.
     * Mayer, R.E. *Multimedia Learning.* Cambridge University Press. 2001.
     * Mayer, R.E. *The Cambridge handbook of multimedia learning.* Cambridge University Press. 2005.
-
--->
 
 ###### Week 1 - 20th January 2016
 

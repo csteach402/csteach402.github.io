@@ -66,8 +66,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [GitHub Help - Fork a Repo](https://help.github.com/articles/fork-a-repo/)
   * [Git Moving Files](http://githowto.com/moving_files)
 <!--
-* HomeBrew OS X LAMP Install
-  * [OS X can use Homebrew to install PHP, MariaDB, and use built-in Apache 2](http://vanbosse.be/blog/detail/a-homebrew-lamp-stack)
 * Javascript
   * JQuery - [How JQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
   * JQuery - [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
@@ -75,11 +73,13 @@ If you have any suggestions for additions to this section of the site, please fe
   * W3Schools - [JQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
 * Metadata
   * Dublin Core - [Metadata Basics](http://dublincore.org/metadata-basics/)
+-->
 * Raspberry Pi LAMP Stack Install
   * [A Simple Wheezy LAMP Install](http://elinux.org/RPi_A_Simple_Wheezy_LAMP_install)
   * [Turning your Raspberry Pi into a personal web server](http://www.instructables.com/id/Turning-your-Raspberry-Pi-into-a-personal-web-serv/?ALLSTEPS)
   * [Raspberry Pi as a LAMP server](http://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2014/02/24/raspberry-pi-as-a-lamp-server)
--->
+* W3Schools - [SQL Tutorial](http://www.w3schools.com/sql/)
+* [XAMPP](https://www.apachefriends.org/download.html)
 <!--
 #### Useful Tools
 

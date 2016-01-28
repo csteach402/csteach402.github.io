@@ -180,6 +180,14 @@ We will go through this work at the start of next week's class.
 We will discuss this work at the start of next week's class.
 -->
 
+#### Week 2 - 27th January 2016
+
+* Please review this week's [notes and material](/notes), which includes the class and extra notes.
+* Please read the extra notes on Git basics and version control
+* Please ensure your XAMPP install is working correctly
+* Please read the following tutorial on SQL from 'Home' to 'Delete'
+  * W3Schools - [SQL Tutorial](http://www.w3schools.com/sql/)
+
 #### Week 1 - 20th January 2016
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
