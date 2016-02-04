@@ -69,14 +69,14 @@ There is no specific textbook for this course.
     * Mayer, R.E., Heiser, J., and Lonn, S. *Cognitive constraints on multimedia learning: When presenting more material results in less understanding.* Journal of Education Psychology 93. PP.187-198. 2001.
     * Moreno, R., and Mayer, R.E. *A coherence effect in multimedia learning: The case for minimizing irrelevant sounds in the design of multimedia instructional messages.* Journal of Educational Psychology 92. PP.117-125. 2000.
 
-###### Week 3 - 28th January 2015
+-->
+
+###### Week 3 - 3rd February 2016
 
   * References
     * Ayres, P. and Sweller, J. *The split attention principle in multimedia learning.* The Cambridge handbook of multimedia learning. PP. 135-146. Cambridge University Press. 2005.
     * Mayer, R.E., Moreno, R., Boire, M., and Vagge, S. *Maximising constructivist learning from multimedia communications by minimizing cognitive load.* Journal of Educational Psychology 91. PP.638-643. 1999.
     * Moreno, R. and Mayer, R.E. *Cognitive principles of multimedia learning: The role of modality and contiguity.* Journal of Educational Psychology 91. PP.358-368. 1999.
-
--->
 
 ###### Week 2 - 27th January 2016
 

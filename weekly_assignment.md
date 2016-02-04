@@ -163,12 +163,14 @@ We will modify and develop this database each week.
 
 We will go through this work at the start of next week's class.
 
-#### Week 2 - 21st January 2015
+-->
+
+#### Week 3 - 3rd February 2016
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Using the sample code provided in this week's notes and course repository, please complete the following tasks
-  * create a new database called '402framework'
-  * add a new table for each of the following
+  * create a database called '402framework'
+  * add a table for each of the following
     * users
     * content
     * content_type
@@ -176,9 +178,9 @@ We will go through this work at the start of next week's class.
   * populate each table with some dummy/test data to enable testing
   * perform some test queries of these tables using SQL queries and PHP
     * examples can be found in this week's course notes
+    * source code examples are available on the course's GitHub account, [week3](https://github.com/csteach402/source/tree/master/2016/week3)
 
 We will discuss this work at the start of next week's class.
--->
 
 #### Week 2 - 27th January 2016
 
