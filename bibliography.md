@@ -61,15 +61,13 @@ There is no specific textbook for this course.
     * Moreno, R., and Mayer, R.E. *Personalized messages that promote science learning in virtual environment.* Journal of Educational Psychology 96. PP.165-173. 2004.
     * Moreno, R., and Mayer, R.E. *Engaging students in active learning: The case for personalized multimedia messages.* Journal of Educational Psychology 93. PP.724-733. 2000.
     * Nass, C., and Brave, S. *Wired for speech: How voice activates and advances the human-computer relationship.* MIT Press. 2005.
+-->
 
-
-###### Week 4 - 4th February 2015
+###### Week 4 - 10th February 2016
 
   * References
     * Mayer, R.E., Heiser, J., and Lonn, S. *Cognitive constraints on multimedia learning: When presenting more material results in less understanding.* Journal of Education Psychology 93. PP.187-198. 2001.
     * Moreno, R., and Mayer, R.E. *A coherence effect in multimedia learning: The case for minimizing irrelevant sounds in the design of multimedia instructional messages.* Journal of Educational Psychology 92. PP.117-125. 2000.
-
--->
 
 ###### Week 3 - 3rd February 2016
 

@@ -79,6 +79,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Turning your Raspberry Pi into a personal web server](http://www.instructables.com/id/Turning-your-Raspberry-Pi-into-a-personal-web-serv/?ALLSTEPS)
   * [Raspberry Pi as a LAMP server](http://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2014/02/24/raspberry-pi-as-a-lamp-server)
 * W3Schools - [SQL Tutorial](http://www.w3schools.com/sql/)
+* W3Schools - [PHP Tutorial](http://www.w3schools.com/php/)
 * [XAMPP](https://www.apachefriends.org/download.html)
 <!--
 #### Useful Tools
