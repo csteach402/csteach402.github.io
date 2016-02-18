@@ -53,15 +53,14 @@ There is no specific textbook for this course.
   * References
     * Mayer, R.E., Mathias, A., Wetzell, K. *Fostering understanding of multimedia messages through pretraining: Evidence for a two-stage theory of mental model construction.* Journal of Experimental Psychology: Applied 8. PP.147-154. 2002.
     * Reeves, B., and Nass, C. *The media equation: How people treat computers, television, and new media like real people and places.* Cambridge University Press. 1996.
-
-###### Weeks 5 & 6 - 11th to 18th February 2015
+-->
+###### Week 5 - 17th February 2016
 
   * References
     * Mayer, R.E., Sobko, K., and Mautone, P.D. *Social cues in multimedia learning: Role of speaker's voice.* Journal of Educational Psychology 93. PP.724-733. 2003.
     * Moreno, R., and Mayer, R.E. *Personalized messages that promote science learning in virtual environment.* Journal of Educational Psychology 96. PP.165-173. 2004.
     * Moreno, R., and Mayer, R.E. *Engaging students in active learning: The case for personalized multimedia messages.* Journal of Educational Psychology 93. PP.724-733. 2000.
     * Nass, C., and Brave, S. *Wired for speech: How voice activates and advances the human-computer relationship.* MIT Press. 2005.
--->
 
 ###### Week 4 - 10th February 2016
 

@@ -133,18 +133,22 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
 * Please read the following guide on GitHub Forking
   * [GitHub Help - Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 
-#### Week 4 - 4th February 2015
+-->
+
+#### Week 5 - 17th February 2016
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please pull this week's source code from the course GitHub account,
-  * [GitHub - Week 4](https://github.com/dighteach/source/tree/master/2015/DIGH402/week4)
-* Using the above source code as an example, please write a PHP class and test script, which is able to produce the following output,
+  * [GitHub - Week 5](https://github.com/csteach402/source/tree/master/2016/week5)
+* Please review this week's second extra notes on [Object Oriented programming](/assets/docs/402-Week5-ObjectOriented-2016.pdf)
+* Using the above source code as an example, and referencing the extra notes, please write a PHP class and test script, which is able to produce the following output,
   * output a user's username
   * output a user's firstname and lastname
   * output a user's age and gender
 
-Please be prepared to briefly demonstrate this working code at the start of next week's class.
--->
+Any questions, please let me know.
+
+We'll discuss this code at the start of next week's class.
 
 #### Week 4 - 10th February 2016
 

@@ -20,6 +20,11 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 5 - 17th February 2016
+  * [course](/assets/docs/402-Week5-2016.pdf)
+  * [extra](/assets/docs/402-Week5-Extra-2016.pdf)
+  * [extra](/assets/docs/402-Week5-ObjectOriented-2016.pdf)
+
 ##### Week 4 - 10th February 2016
   * [course](/assets/docs/402-Week4-2016.pdf)
   * [extra](/assets/docs/402-Week4-Extra-2016.pdf)
