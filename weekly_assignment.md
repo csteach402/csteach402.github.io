@@ -123,17 +123,18 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
   * consider how we might modify the current code to implement a new controller
 * Please read through the following online tutorial
   * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
-
-#### Week 5 - 11th February 2015
+-->
+#### Week 6 - 24th February 2016
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please pull this week's source code from the course GitHub account,
-  * [GitHub - 402framework - v0.1](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.1)
+  * [GitHub - 402framework - v0.1](https://github.com/csteach402/source/tree/master/2016/402framework/v0.1)
   * ensure this code is working correctly with your sample database
-* Please read the following guide on GitHub Forking
-  * [GitHub Help - Fork a Repo](https://help.github.com/articles/fork-a-repo/)
+* Please reread the extra document on [Object Oriented programming](/assets/docs/402-Week5-ObjectOriented-2016.pdf)
+  * prepare for a quick puzzle on object oriented programming for the start of next week's class
+* Please send me a copy of your code for last week's object oriented programming exercise
 
--->
+Any questions, please let me know.
 
 #### Week 5 - 17th February 2016
 

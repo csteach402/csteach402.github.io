@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 6 - 24th February 2016
+  * [course](/assets/docs/402-Week6-2016.pdf)
+  * [extra](/assets/docs/402-Week6-Extra-2016.pdf)
+
 ##### Week 5 - 17th February 2016
   * [course](/assets/docs/402-Week5-2016.pdf)
   * [extra](/assets/docs/402-Week5-Extra-2016.pdf)

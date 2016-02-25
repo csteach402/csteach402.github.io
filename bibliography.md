@@ -47,13 +47,14 @@ There is no specific textbook for this course.
   * References
     * Atkinson, R.K., Renkl, A., & Merrill, M.M. *Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked out steps* Journal of Educational Psychology 95. PP. 774-783 2003.
     * LeFevre, J.A., & Dixon, P. *Do written instructions need examples?* Cognition and Instruction 3. PP. 1-30. 1986.
+-->
 
-###### Week 7 - 25th February 2015
+###### Week 6 - 24th February 2016
 
   * References
     * Mayer, R.E., Mathias, A., Wetzell, K. *Fostering understanding of multimedia messages through pretraining: Evidence for a two-stage theory of mental model construction.* Journal of Experimental Psychology: Applied 8. PP.147-154. 2002.
     * Reeves, B., and Nass, C. *The media equation: How people treat computers, television, and new media like real people and places.* Cambridge University Press. 1996.
--->
+
 ###### Week 5 - 17th February 2016
 
   * References
