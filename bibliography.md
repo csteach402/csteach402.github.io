@@ -49,6 +49,17 @@ There is no specific textbook for this course.
     * LeFevre, J.A., & Dixon, P. *Do written instructions need examples?* Cognition and Instruction 3. PP. 1-30. 1986.
 -->
 
+##### Week 7 - 2nd March 2016
+
+  * References
+    * Beck, I. McKeown, M.G., Sandora, C., Kucan, L., and Worthy, J. 1996. *Questioning the author: A year-long classroom implementation to engage students in text.* Elementary School Journal 96. PP.385-414.
+    * Inglese, T., Mayer, R.E., and Rigotti, F. 2007. *Using audiovisual TV interviews to create visible authors that reduce the learning gap between native and non-native speakers.8 Learning and Instruction 16. PP.67-77.
+    * Mayer, R.E., Dow, G., and Mayer, S. 2003 *Multimedia learning in an interactive self-explaining environment: What works in the design of agent-based microworlds?* Journal of Educational Psychology 95. PP.806-813.
+    * Mayer, R.E., and Chandler, P. 2001. *When learning is just a click away: Does simple user interaction foster deeper understanding of multimedia messages?* Journal of Educational Psychology 93. PP.390-397.
+    * Nolen, S. 1995. *Effects of a visible author in statistical texts.* Journal of Educational Psychology 87. PP.47-65.
+    * Paxton, R. 2002. *The influence of author visibility on high school students solving a historical problem.* Cognition and Instruction 20. P.202.
+    * Pollock, E., Chandler, P., and Sweller, J. 2002 *Assimilating complex information.* Learning and Instruction 12. PP. 61-86.
+
 ###### Week 6 - 24th February 2016
 
   * References

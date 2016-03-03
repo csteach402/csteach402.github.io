@@ -124,6 +124,21 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
 * Please read through the following online tutorial
   * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
 -->
+
+#### Week 7 & Spring Break - 2nd March 2016
+
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
+* Please pull this week's source code from the course GitHub account,
+  * [GitHub - 402framework - v0.2](https://github.com/csteach402/source/tree/master/2016/402framework/v0.2)
+  * ensure this code is working correctly with your sample database
+  * **NB:** I've also uploaded the source code for v0.3 to help with preparation for the next class
+* Please carefully read through this week's code, as detailed in the [402framework](https://github.com/csteach402/source/tree/master/2016/402framework/) repository
+  * ensure you understand how user requested content is called and loaded by the framework
+  * consider how we might modify the current code to implement a new controller
+* Please carefully read the following introductory tutorials on Javascript and jQuery,
+  * W3Schools - [Javascript Tutorial](http://www.w3schools.com/js/DEFAULT.asp)
+  * W3Schools - [jQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
+
 #### Week 6 - 24th February 2016
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
