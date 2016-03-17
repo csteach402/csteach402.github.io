@@ -81,7 +81,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * W3Schools - [SQL Tutorial](http://www.w3schools.com/sql/)
 * W3Schools - [PHP Tutorial](http://www.w3schools.com/php/)
 * [XAMPP](https://www.apachefriends.org/download.html)
-<!--
+
 #### Useful Tools
 
   * Browser Testing
@@ -91,4 +91,3 @@ If you have any suggestions for additions to this section of the site, please fe
     * Google Maps - [Places Library](https://developers.google.com/maps/documentation/javascript/places)
     * [Geonames Gazetteer](http://download.geonames.org/export/dump/)
     * Twitter API - [geo/search](https://dev.twitter.com/rest/reference/get/geo/search)
--->

@@ -125,6 +125,19 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
   * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
 -->
 
+### Week 9 & DEV Week - 16th March 2016
+* Please review this week's [notes and material](/notes), which includes the class, extra, and 402mini notes
+* Please pull this week's source code from the course GitHub account,
+  * [GitHub - 402framework - v0.4](https://github.com/csteach402/source/tree/master/2016/402framework/)
+  * update the database to [week 9 SQL](https://github.com/csteach402/source/tree/master/2016/402framework/sql/week9)
+  * ensure this code is working correctly with your sample database
+* Please pull the 402mini v0.1 code from the course GitHub account,
+  * [GitHub - 402mini - v0.1](https://github.com/csteach402/source/tree/master/2016/402mini)
+* Please carefully read through this week's code for both 402framework v0.4 and 402mini v0.1
+* Please read through the DEV requirements, which are available on slide 2 of this week's course notes
+
+Any questions, please let me know.
+
 #### Week 7 & Spring Break - 2nd March 2016
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes

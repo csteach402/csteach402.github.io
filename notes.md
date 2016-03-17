@@ -20,6 +20,11 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 9 - 16th March 2016
+  * [course](/assets/docs/402-Week9-2016.pdf)
+  * [extra](/assets/docs/402-Week9-Extra-2016.pdf)
+  * [extra - 402mini - part 1](/assets/docs/402mini-Part1-2016.pdf)
+
 ##### Week 7 - 2nd March 2016
   * [course](/assets/docs/402-Week7-2016.pdf)
   * [extra](/assets/docs/402-Week7-Extra-2016.pdf)

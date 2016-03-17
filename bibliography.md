@@ -41,13 +41,13 @@ There is no specific textbook for this course.
   * References
     * Moreno, R. *Decreasing cognitive load for novice students: Effects of explanatory versus corrective feedback in discovery-based multimedia.* Instructional Science 32. PP.99-113. 2004.
     * Slobada, J.A., Davidson, J.W., Howe, M.J.A., and Moore, D.G. *The role of practice in the development of performing musicians.* British Journal of Psychology 87. PP.287-309. 1996.
+-->
 
-###### Week 9 - 11th March 2015
+###### Week 9 - 16th March 2016
 
   * References
     * Atkinson, R.K., Renkl, A., & Merrill, M.M. *Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked out steps* Journal of Educational Psychology 95. PP. 774-783 2003.
     * LeFevre, J.A., & Dixon, P. *Do written instructions need examples?* Cognition and Instruction 3. PP. 1-30. 1986.
--->
 
 ##### Week 7 - 2nd March 2016
 
