@@ -125,7 +125,26 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
   * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
 -->
 
-### Week 9 & DEV Week - 16th March 2016
+#### Week 11 - 30th March 2016
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
+* Please share any material created for the week 9 assignment as an attachment to a private message on our Slack group
+* Please update your code and SQL for the 402framework to v0.5 from GitHub
+  * [402framework v0.5](https://github.com/csteach402/source/tree/master/2016/402framework/v0.5)
+  * [402framework SQL v0.5](https://github.com/csteach402/source/tree/master/2016/402framework/sql/v0.5)
+* Please update your 402mini code to v0.2 from GitHub
+  * [402mini v0.2](https://github.com/csteach402/source/tree/master/2016/402mini/v0.2)
+* Please compare and contrast the following framework versions
+  * 402framework - v0.4 to v0.5
+  * 402mini - v0.1 to v0.2
+* Consider the following for each framework comparison
+  * what has changed in the code and where?
+  * what has changed in the view for the user?
+  * update flow diagram
+* Please prepare this material for a brief presentation at the start of next week's class
+
+Any questions, please let me know. Enjoy your week.
+
+#### Week 9 & DEV Week - 16th March 2016
 * Please review this week's [notes and material](/notes), which includes the class, extra, and 402mini notes
 * Please pull this week's source code from the course GitHub account,
   * [GitHub - 402framework - v0.4](https://github.com/csteach402/source/tree/master/2016/402framework/)
