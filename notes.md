@@ -20,6 +20,11 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 12 - 6th April 2016
+  * [course](/assets/docs/402-Week12-2016.pdf)
+  * [extra](/assets/docs/402-Week12-Extra-2016.pdf)
+  * [extra 2 - final report outline](/assets/docs/402-FinalReportOutline.pdf)
+
 ##### Week 11 - 30th March 2016
   * [course](/assets/docs/402-Week11-2016.pdf)
   * [extra](/assets/docs/402-Week11-Extra-2016.pdf)

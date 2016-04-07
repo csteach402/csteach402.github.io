@@ -125,6 +125,32 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
   * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
 -->
 
+#### Week 12 - 6th April 2016
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review the additional document on the final project report
+  * [final report outline](/assets/docs/402-FinalReportOutline.pdf)
+* Please update your code and SQL for the 402framework to v0.6 from GitHub
+  * [402framework v0.6](https://github.com/csteach402/source/tree/master/2016/402framework/v0.6)
+  * [402framework SQL v0.6](https://github.com/csteach402/source/tree/master/2016/402framework/sql/v0.6)
+* Please update your 402mini code to v0.3 from GitHub
+  * [402mini v0.3](https://github.com/csteach402/source/tree/master/2016/402mini/v0.3)
+* Please compare and contrast the following framework versions
+  * 402framework - v0.5 to v0.6
+  * 402mini - v0.2 to v0.3
+* Consider the following for each framework comparison
+  * what has changed in the code and where?
+  * what has changed in the view for the user?
+  * update flow diagram
+* Consider material for your final project assessment. For example,
+  * an interactive Jules Verne bibliography
+  * which editions will you include in the site?
+  * any images, sample texts?
+  * any applicable contextual material?
+  * metadata and taxonomy for this material
+  * and so on...
+
+Any questions, please let me know. Enjoy your week.
+
 #### Week 11 - 30th March 2016
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please share any material created for the week 9 assignment as an attachment to a private message on our Slack group
