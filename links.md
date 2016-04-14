@@ -65,11 +65,11 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Git Documentation](http://git-scm.com/doc)
   * [GitHub Help - Fork a Repo](https://help.github.com/articles/fork-a-repo/)
   * [Git Moving Files](http://githowto.com/moving_files)
-* Javascript
-  * JQuery - [How JQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
-  * JQuery - [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
-  * W3Schools - [Javascript Tutorial](http://www.w3schools.com/js/DEFAULT.asp)
-  * W3Schools - [JQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
+* JavaScript
+  * jQuery - [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
+  * jQuery - [jQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
+  * W3Schools - [JavaScript Tutorial](http://www.w3schools.com/js/DEFAULT.asp)
+  * W3Schools - [jQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
 * Metadata
   * Dublin Core - [Metadata Basics](http://dublincore.org/metadata-basics/)
 

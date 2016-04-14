@@ -125,6 +125,24 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
   * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
 -->
 
+#### Week 13 - 13th April 2016
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
+* Please update your code and SQL for the 402framework to v0.7 from GitHub
+  * [402framework v0.7](https://github.com/csteach402/source/tree/master/2016/402framework/v0.7)
+  * [402framework SQL v0.7](https://github.com/csteach402/source/tree/master/2016/402framework/sql/v0.7)
+* Please compare and contrast the following framework versions
+  * 402framework - v0.6 to v0.7
+* Consider the following for the above framework comparison
+  * why have we implemented these changes from v0.6 to v0.7?
+  * what has changed for the user in the framework?
+* Consider your chosen material for the final project assessment
+  * outline a structure and flow for the taxonomy and groups within this material
+  * how does this material fit in the 402framework?
+  * which DB tables will you need to update for this new material?
+  * which DB tables will you need to update for the taxonomy and metadata?
+
+Any questions, please let me know. Enjoy your week.
+
 #### Week 12 - 6th April 2016
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please review the additional document on the final project report

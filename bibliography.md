@@ -20,15 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
-<!--
-
-###### Week 13 - 8th April 2015
+###### Week 13 - 13th April 2016
 
   * References
     * Bell, B.S., and Kozlowski, S.W.J. *Adaptive guidance: Enhancing self-regulation, knowledge, and performance in technology-based training.* Personnel Psychology 55. PP.267-306. 2002.
     * Corbalan, G., Kester, L., and Van Merrienboer, J.J.G. *Towards a personalized task selection model with shared instructional control.* Instructional Science 34. PP.399-422. 2006.
     * Lee, S., Lee, Y.H.K. *Effects of learner-control versus program control strategies on computer-aided learning of chemistry problems: For acquisition or review?* Journal of Educational Psychology 83. PP.491-498. 1991.
--->
+
 ###### Week 12 - 6th April 2016
 
   * References
