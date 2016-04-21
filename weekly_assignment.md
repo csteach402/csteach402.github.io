@@ -125,6 +125,15 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
   * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
 -->
 
+#### Week 14 - 20th April 2016
+
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review the [Final Report Outline](/assets/docs/402-FinalReportOutline.pdf).
+* Please prepare your project's presentation for next week's class, Wednesday 27th April 2016 at 4.15pm.
+  * full details may be found on slide 2 of this week's [course notes](/assets/docs/402-Week14-2016.pdf)
+
+Any questions please let me know.
+
 #### Week 13 - 13th April 2016
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please update your code and SQL for the 402framework to v0.7 from GitHub
