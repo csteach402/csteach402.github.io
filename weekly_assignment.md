@@ -125,6 +125,17 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
   * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
 -->
 
+#### Week 15 - 27th April 2016
+
+* Please complete your final course assessment, the 'Design Project Report'. An outline report is available at the following URL,
+  * [final report outline](/assets/docs/402-FinalReportOutline.pdf)
+* In addition to the suggested final report outline, please feel free to submit other pertinent work or data for consideration
+  * if you submit additional material for consideration, please document and explain it in your report's appendix
+* Report is due on Wednesday 4th May 2016 by 4.15pm.
+* Please send me a PDF copy of this report. This can be sent as an email attachment to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=402 Final Report)
+
+Any questions please let me know.
+
 #### Week 14 - 20th April 2016
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
